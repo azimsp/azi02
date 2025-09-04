@@ -1,2 +1,2 @@
 # azi02
-kjb>KB>KHDGHGb.khbvnbvb
+kjb>KB>KHDGHGb.
