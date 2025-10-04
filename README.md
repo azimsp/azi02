@@ -33,3 +33,4 @@ Speak(text) {
     voice.Speak(text)
 }
 
+kljISJOIHSoiFHjbjhgygy
