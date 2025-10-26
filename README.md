@@ -1,4 +1,4 @@
-# azi02 4jgoioiouhrahDbv3
+# azi02 4jgoioiouhrahD
 #Requires AutoHotkey v2.0
 global running := false
 
