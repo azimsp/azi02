@@ -1,4 +1,4 @@
-# azi02 4jgoioiouhrahD13knk31351330bjhvhg
+# azi02 4jgoioiouhrahD13knk31351330bjh
 #Requires AutoHotkey v2.0
 global running := false
 
@@ -37,3 +37,4 @@ kljISJOIHSoiFHjbjhgygy
 546465
 ;ksljdoripqojagu
 jzf/jzio'INB/m?lek
+;ljjliuszsdfsdfv
