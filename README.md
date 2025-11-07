@@ -1,4 +1,4 @@
-# azi0jgkuhkufhgxcdgr.jj;ojl,fvhd
+# azi0jgkuhkufhgxcdgr.jj;ojl,f
 #Requires AutoHotkey v2.0
 global running := false
 
