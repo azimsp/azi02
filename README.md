@@ -1,4 +1,4 @@
-# azi0jgkuhkufhgxcdgr.jj;ojl,f>KHGIHEILhkmzzlddd6.akjburhtai4648ojoiujo
+# azi0jgkuhkufhgxcdgr.jj;ojl,f>KHGIHEILhkmzzlddd6.akjburhtai4648ojndkjn
 #Requires AutoHotkey v2.0
 global running := false
 
