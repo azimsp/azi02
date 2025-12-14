@@ -1,4 +1,4 @@
-# azi0jgkuhkufhgxcdgr.jj;ojlgkugjyfhtxs,f>135846946451lddd6.akjb13562300h;35468468888888d351513bkjkjkgنلرنالناذذذذذذذذو,jbhxfd
+# azi0jgkuhkufhgxcdgr.jj;ojlgkugjyfhtxs,f>135846946451lddd6562300h;35468468888888d351513bkjkjkgنلرنالناذذذذذذذذو,jbhxfd
 #Requires AutoHotkey v2.0665646
 global running := false
 
